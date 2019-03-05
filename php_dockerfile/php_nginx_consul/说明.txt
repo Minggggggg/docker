@@ -1,0 +1,2 @@
+该dockerfile 集成了consul、nginx、php
+Docker-php-ext-* 都是要复制进去的，一些配置文件就看是映射还是copy进去，看配置。

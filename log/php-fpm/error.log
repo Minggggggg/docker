@@ -1,0 +1,37 @@
+[01-Mar-2019 17:41:28] NOTICE: fpm is running, pid 1
+[01-Mar-2019 17:41:28] NOTICE: ready to handle connections
+[01-Mar-2019 17:45:38] NOTICE: Terminating ...
+[01-Mar-2019 17:45:38] NOTICE: exiting, bye-bye!
+[01-Mar-2019 17:45:41] NOTICE: fpm is running, pid 1
+[01-Mar-2019 17:45:41] NOTICE: ready to handle connections
+[01-Mar-2019 17:47:38] NOTICE: Terminating ...
+[01-Mar-2019 17:47:38] NOTICE: exiting, bye-bye!
+[01-Mar-2019 17:47:41] NOTICE: fpm is running, pid 1
+[01-Mar-2019 17:47:41] NOTICE: ready to handle connections
+[01-Mar-2019 17:49:01] NOTICE: Terminating ...
+[01-Mar-2019 17:49:01] NOTICE: exiting, bye-bye!
+[01-Mar-2019 17:49:04] NOTICE: fpm is running, pid 1
+[01-Mar-2019 17:49:04] NOTICE: ready to handle connections
+[01-Mar-2019 17:51:35] NOTICE: Terminating ...
+[01-Mar-2019 17:51:35] NOTICE: exiting, bye-bye!
+[01-Mar-2019 17:51:38] NOTICE: fpm is running, pid 1
+[01-Mar-2019 17:51:38] NOTICE: ready to handle connections
+[01-Mar-2019 17:55:14] NOTICE: Terminating ...
+[01-Mar-2019 17:55:14] NOTICE: exiting, bye-bye!
+[01-Mar-2019 17:55:17] NOTICE: fpm is running, pid 1
+[01-Mar-2019 17:55:17] NOTICE: ready to handle connections
+[01-Mar-2019 17:55:22] WARNING: [pool www] server reached pm.max_children setting (1), consider raising it
+[01-Mar-2019 17:55:33] NOTICE: Terminating ...
+[01-Mar-2019 17:55:33] NOTICE: exiting, bye-bye!
+[01-Mar-2019 17:55:36] NOTICE: fpm is running, pid 1
+[01-Mar-2019 17:55:36] NOTICE: ready to handle connections
+[01-Mar-2019 18:33:08] NOTICE: Terminating ...
+[01-Mar-2019 18:33:08] NOTICE: exiting, bye-bye!
+[01-Mar-2019 18:33:11] NOTICE: fpm is running, pid 1
+[01-Mar-2019 18:33:11] NOTICE: ready to handle connections
+[01-Mar-2019 18:34:39] NOTICE: fpm is running, pid 1
+[01-Mar-2019 18:34:39] NOTICE: ready to handle connections
+[01-Mar-2019 18:36:08] NOTICE: Terminating ...
+[01-Mar-2019 18:36:08] NOTICE: exiting, bye-bye!
+[01-Mar-2019 18:36:11] NOTICE: fpm is running, pid 1
+[01-Mar-2019 18:36:11] NOTICE: ready to handle connections
